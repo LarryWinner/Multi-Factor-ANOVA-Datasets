@@ -1,0 +1,16 @@
+Dataset:  vr_glove_grip.csv
+
+Source: R. Thilakarathna and M. Phlernjai (2025).
+"Finger Tracking for Wearable VR Glove Using Flexible Rack Mechanism,"
+Virtual Reality & Intelligent Hardware, Vol. 7, #1, pp.1-25.
+
+Description: Results of a Gage Repeatabilty & Reproducuibilty Study
+with 5 Subjects (Random), 4 fingers (Fixed) and 5 replicates.
+Authors performed Average/Range GR&R Analysis
+
+Variable Names:
+participant  (1-5)
+finger (2=index, 3=middle, 4=ring, 5=pinky)
+replicate   (not a factor)
+gripTest    (response, technically a mean of 10 measurements)
+

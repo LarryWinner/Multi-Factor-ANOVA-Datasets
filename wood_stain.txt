@@ -1,0 +1,14 @@
+Dataset: wood_stain.csv
+
+Source: K.J. Potcner and S.M. Kowalski (2004). "How to Analyze a 
+Split-Plot Experiment," Quality Progress, Vol. 37, #12, pp.67-74.
+
+Description: Data from a split-plot experiment with 1 whole-plot
+factor (pre-tratment, 2 levels), and 1 sub-plot factor (wood stain, 4 levels).
+Run as a Completely Randomized design, with Water Resistance as response.
+
+Variables/Labels:
+Water Resistance  (Resistance)
+Whole-Plot Unit  (WP_Unit)
+Pretreatment  (Pretreat)
+Stain         (Stain)

@@ -1,0 +1,15 @@
+Dataset:  vision_measure2.dat
+
+Source: K.D. Majeske (2012). "Approving Vision-Based Measurement Systems
+in the Presence of Within-Part Variation," Quality Engineering, Vol. 24,
+pp. 49-59.
+
+Description: Experiment with 10 parts being measured at 4 locations, with
+each location being measured 4 times (replicates, not used as a factor).
+Note that locations are considered to be nested in part.
+
+Variables/Columns
+Part Number    7-8
+Location       16
+Replicate      24
+Measurement   26-32

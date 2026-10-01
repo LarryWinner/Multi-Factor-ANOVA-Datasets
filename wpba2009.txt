@@ -1,0 +1,21 @@
+Dataset: wpba2009.dat
+
+Source:  www.pba.com
+
+Description: Scores for 15 women professional bowlers of 4 oil patterns,
+each for 2 sets of 7 games per set. All at Allen Park, MI.
+
+Bowlers: 1=Diandra Abaty, 2=Shalin Zulkiffi, 3=Liz Johnson,
+4=Kelly Kulick, 5=Clara Guerrero, 6=Jennifer Petrick, 7=Wendy MacPherson,
+8=Shannon Pluhowski, 9=Stephanie Nation, 10=Tammy Boomershine,
+11=Amanda Fagan, 12=Aumi Guerra, 13=Michelle Feldman, 
+14=Shannon O'Keefe, 15=Jodie Woessner
+
+Oil Patterns: 1=Viper, 2=Chameleon, 3=Scorpion, 4=Shark
+
+Variables/Columns:  
+Bowler   7-8
+Oil Pattern   16
+Set Number   24
+Game of Set   32
+Score   38-40  /* max = 300 */

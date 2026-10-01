@@ -1,0 +1,18 @@
+Dataset: woolfrict1.dat
+
+Source: J. Lindberg(1953). "Relationship Between Various Surface Properties
+of Wool Fibers: Part II: Frictional Properties," Textile Research Journal, 
+Vol. 23, pp. 225-237.
+
+Description: Results of Experiment measuring top shrinkage under 4 
+treatments (untreated, alcoholic potash (15sec), alcoholic potash (4min),
+alcoholic potash (15 min)), measured after 7 levels of numbers of revolutions
+(200:1400 by 200), over 4 experimental runs (blocks). Conducted as
+a split-plot experiment with whole plot factor=treatment, sub-plot factor
+= # revolutions in 4 blocks (runs)
+
+Variables/Columns
+Run    8
+Treatment     16   /* 1=untrt, 2=ac(15s), 3=ac(4m), 4=ac(15m)  */
+Number of Revolutions   21-24
+Top Shrinkage     29-32

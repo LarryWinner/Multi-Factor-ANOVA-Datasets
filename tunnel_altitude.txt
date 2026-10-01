@@ -1,0 +1,21 @@
+Dataset:  tunnel_altitude.csv
+
+Source: S. Zhao, S. Wen, Y. Guo,, B. Sun, W. Chen, S. Wang, G. Yabin,
+C. Guo (2025). "Impact of High Altitude on Worker Health and Project
+Efficiency in Tunnel, Construction," International Journal of
+Industrial Ergonomics, Vol. 105, 103694.
+
+Description: Energy Metabolism for 50 workers on tunnels in China.
+Factors: 
+Altitude 1=High (4400 meters) 2=Plain (518 meters)
+Job: 1=Secondary Lining Rebar Installation
+     2=Laying of secondary lining water proof cloth
+     3=Inverted Arch Rebar Tying
+     4=Foundation Slab Construction
+     5=Machine Operator
+Data generated to match means and sds
+
+Variable Names
+altitude
+job
+energyMet   (kJ/min*m^2)

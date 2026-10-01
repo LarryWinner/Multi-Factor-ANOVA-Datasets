@@ -1,0 +1,16 @@
+Dataset: woolfrict1.dat
+
+Source: J. Lindberg(1953). "Relationship Between Various Surface Properties
+of Wool Fibers: Part II: Frictional Properties," Textile Research Journal, 
+Vol. 23, pp. 225-237.
+
+Description: Results of Experiment measuring top shrinkage under 3 
+treatments (untreated, ether-extracted, ether/alcohol extracted),
+measured at 3 levels of pH (2, 6, 10),
+over 3 experimental runs (nested within treatments). 
+
+Variables/Columns
+Run    8
+Treatment     16   /* 1=untrt, 2=ether, 3=ether/alcohol  */
+pH level   24
+Top Shrinkage     29-32

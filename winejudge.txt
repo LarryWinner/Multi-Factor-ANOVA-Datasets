@@ -1,0 +1,21 @@
+Dataset:  winejudge.dat
+
+Sources: O. Ashenfelter and K. Storchmann (2012). "Editorial: The Judgement
+of Princeton and Other Articles," Journal of Wine Economics, Vol. 7,
+#2, pp. 139-142.
+
+Quandt, R.E. (2012). Tasting Report No. 161. Liquid Assets. Online at
+http://www.liquidasset.com/report161.html
+
+Descrption: Results of 9 judges rating 10 white wines and 10 red wines
+on a 20 point scale.
+
+Judges: 1=J-M. Cardebat, 2=T. Colman, 3=J. Foy, 4=O. Gergaud,
+5=R. Hodgson, 6=L. Murphy, 7=D. Meulders, 8=J. Rayvis, 9=F. Schott
+
+
+Variables/Columns
+Judge ID    8
+Wine Type   16   /* 1=White, 2=Red  */
+Wine ID    23-24
+Rating    28-32

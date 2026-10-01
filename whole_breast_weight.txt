@@ -1,0 +1,22 @@
+Dataset: whole_breast_weight.dat
+
+Source: M.I. Aksu, H. Imik, M. Karaoglu (2007). "Influence of Dietary Sorghum
+(Sorghum vulgare) and Corn Supplemented with Methionine on Cut-up
+Pieces Weights of Broiler Carcass and Quality Properties of Breast and
+Drumsticks Meat," Food Science and Technology International, Vol. 13(5),
+pp. 361-367
+
+Description:
+Whole breast weights of broiler chickens from completely randomized design
+with 4 treatments (data simulated to match means, SDs):
+BS: Base Sorghum (Trt=1, Base=1, Methionine=1)
+BSM: Base Sorghum w/ Methionine (Trt=2, Base=1, Methionine=2)
+BC: Base Corn (Trt=3, Base=2, Methionine=1)
+BCM: Base Corn w/ Methionine (Trt=4, Base=2, Methionine=2)
+
+Variables/Columns
+Trt          8
+Rep Number (w/in trt)    15-16
+Base      24
+Methionine   32
+Weight (grams)   34-40

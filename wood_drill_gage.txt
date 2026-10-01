@@ -1,0 +1,16 @@
+Dataset: wood_drill_gage.csv
+
+Source: M-H. C. Li and A. Al-Refaie (2008). "Improving Wooden Parts'
+Quality by Adopting DMAIC Procedure," Quality and Reliability Engineering
+International, Vol. 24, pp. 351-360.
+
+Description: Gage Repeatability and Peproducibility (GR&R) experiment
+on output from a drilling machine process. 2-Way random effects model
+with 10 parts, being measured by 3 Operators, on 3 occasions (replicates).
+Measurements in mm.
+
+Variables/Names
+Part ID  (Part)
+Operator ID (Operator)
+Replicate (Rep)
+Measurement  (Ymeas)
