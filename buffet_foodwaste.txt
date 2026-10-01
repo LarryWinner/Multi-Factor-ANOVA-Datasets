@@ -1,0 +1,21 @@
+Dataset: buffet_foodwaste.csv
+
+Source: Y. Y-C. Chang, J-H. Lin, C-H. Hsiao (2022). "Examining Effective Means to Reduce Food
+Waste Behaviour in Buffet Restaurants," International Journal of Gastronomy and Food Science, 
+Vol. 29, 100554.
+https://doi.org/10.1016/j.ijgfs.2022.100554
+
+Description: Results of experiment to reduce food waste in buffets.
+Y = Food Waste Volume (grams)
+Factors: 
+Serving style: 1=Self-serve Bar, 2=Trolley Cart
+Dual Intervention: 1=Moral Persuasion, 2=MP+Discount, 3=MP+Penalty
+n=60 subjects per treatment, data generated to match means and sd's
+
+Variable Names:
+id
+foodWaste
+buf.trt   (1:6)
+serv.sty
+dual.int
+

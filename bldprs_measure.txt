@@ -1,0 +1,12 @@
+Dataset:  bldprs_measure.csv
+
+Source: J.M. Bland and D.G. Altman (1999). "Measuring Agreement in Method
+Comparison Studies," Statistical Methods in Medical Research, Vol. 8,
+pp. 135-160.
+
+Description: Blood Pressure measurements on 85 subjects, with 3 methods,
+and 3 replicates per method per subject. Methods:
+Experienced Rater J using sphygmomanometer: J1, J2, J3
+Experienced Rater R using sphygmomanometer: R1, R2, R3
+Semi-automated blood pressure monitor: S1, S2, S3
+Subject ID is labelled: subj_id

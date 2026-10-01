@@ -1,0 +1,17 @@
+Dataset:  birchpollen.dat
+
+Source: B.F. Clegg, W. Tinner, D.G, Gavin, F.S. Hu (2005). "Morphological
+Differentiation of Betula (birch) Pollen in Northwest North America and
+its Palaeological Application," The Holocene, Vol. 15, #2, pp. 229-237.
+
+Description: Grain diameters of pollen based on 5 species, with varying
+numbers of locations within species (13, 6, 5, 19, 12), 
+and 30 measurements per location.
+Species: B. papyrifera, neoalaskana, kenaica, glandulosa, nana
+Data simulated to match mean and SDs within locations. 
+
+
+Variables/Columns
+Grain Diameter   1-8
+Species        16
+Location 23-24

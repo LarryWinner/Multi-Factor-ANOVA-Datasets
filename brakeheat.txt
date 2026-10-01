@@ -1,0 +1,14 @@
+Dataset:  brakeheat.dat
+
+Source: M. Awad, T.P. Erdmann, Y. Shanshal, B. Barth (2009). "A 
+Measurement System Analysis Approach for Hard-to-Repeat Events,"
+Quality Engineering, Vol. 21, pp. 300-305
+
+Description: Experiment measuring temperature of 5 brake discs at
+8 time points (minutes) with 2 gauges.
+
+Variables / Columns
+Part Number (Brake Disc)  8
+Time (Minutes)   16
+Gauge Number    24
+Temperature (C)  30-32
