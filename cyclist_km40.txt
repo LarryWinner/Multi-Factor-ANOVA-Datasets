@@ -1,0 +1,16 @@
+Dataset: cyclist_km40.csv
+
+Source: M.F. Smith, R.C.R. Davison, J. Balmer, S.R. Bird (2001).
+"Reliability of Mean Power Recorded During Indoor and Outdoor Self-Paced
+40 km Cycling Time-Trials," International Journal of Sports Medicine,
+Vol. 22, pp. 270-274.
+
+Description: Performance Times and power output for 8 non-elite, endurance-trained,
+competitive cyclists on 3 trials each on indoor and outdoor tracks.
+
+Variable Names:
+cyclist (1-8)
+trial (1-3)
+venue (1=indoor, 2=outdoor)
+km40time   (minutes)
+km40power  (watts)

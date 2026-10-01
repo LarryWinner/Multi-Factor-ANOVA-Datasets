@@ -1,0 +1,17 @@
+Dataset:  color_change.dat
+
+Source: E. Ilec, B. Simoncic, A. Hladnik (2009). "Evaluation of Surfactant 
+  Detergency using Statistical Analysis, Texile Research Journal,
+  Vol. 79, #4, pp. 318-325.
+
+Description: Color Change results of fabric of 3 varieties (cotton, silk, 
+and wool) exposed to 4 soils (tea, coffee, wine, and charcoal),
+washed at 2 temperatures (40C and 60C) 2 surfactants (anionic and
+non-ionic) in a 4-Way ANOVA.
+
+Variables/Columns
+Soil Type   8  /* 1=tea, 2=coffee, 3=wine, 4=charcoal  */
+Fabric type  16  /* 1=Cotton, 2=Silk, 3=Wool  */
+Temperature  24  /* 1=40C, 2=60C  */
+Surfactant   32  /* 1=anionic, 2=non-ionic  */
+

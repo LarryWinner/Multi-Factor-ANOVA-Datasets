@@ -1,0 +1,34 @@
+Dataset: creat_life_cyc2.csv 
+
+Sources: 
+D.W. Galenson (2003). "Literary Life Cycles: The Careers of American Poets."
+Working Paper 9856, National Bureau of Economic Research.
+
+
+D.W. Galenson (2004). "A Portrait of the Artist as a Young or Old
+Innovator: Measuring the Careers of Modern Novelists."
+Working Paper 10213, National Bureau of Economic Research.
+
+D.W. Galenson and J. Kotin (2005). "Filming Images or Filming Reality:
+The Life Cycles of Movie Directors from D.W. Griffith to Federico Fellini,"
+Working Paper 11486, National Bureau of Economic Research.
+
+Description: Age at peak of career for 36 creativists classified as
+novelists, poets, and film directors and by their style: 
+Conceptualists(finders)/experimentalists(seekers).
+Criteria:
+Poets: Median age for their 5 most re-printed poems.
+Novelists: Median age at publishing for their 3 most important novels
+Film Directors: Median age for their films with highest film guide ratings
+
+Variable names
+creator   
+crType     /* 1= Poet, 2=Novelist, 3=Film Director  */
+Style       /* 1=Conceptualist, 2=Experimentalist  */
+XA1        /* 1 if Poet, 0 if Nov, -1 if Film */
+XA2       /* 1 if Nov, 0 if Poet, -1 if Film  */
+XB1       /* 1 if Conceptualist, -1 if Experimental  */
+XAB11    /* XA1*XB1  */
+XAB21    /* XA2*XB1   */
+agePeak    
+

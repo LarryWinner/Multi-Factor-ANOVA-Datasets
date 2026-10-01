@@ -1,0 +1,19 @@
+Dataset:  combhair.dat
+
+Source: M.L. Garcia and J. Diaz(1976). "Combability Measurements on
+Human Hair," Journal of the Society of Cosmetic Chemists, Vol.27,
+pp379-398.
+
+Description: Combability measurements (average of peak and average combing 
+loads) for 16 swatches of hair (8 assigned to shampoo A, 8 to B),
+before and sfter treatment (shampoo). Five replicates taken on each
+swatch before and after treatment.
+
+Variables/Columns
+
+shampoo  1  /* 1=A, 2=B  */
+treatment  4  /* 0=Before shampoo,  1=After  */
+Swatch number   7-8
+run number  11
+combability  14-16
+

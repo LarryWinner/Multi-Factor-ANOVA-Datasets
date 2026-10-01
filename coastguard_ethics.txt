@@ -1,0 +1,14 @@
+Dataset:  coastguard_ethics.dat
+
+Source: R.D. White, Jr. (1999). "Are Women More Ethical? Recent
+Findings on the Effects of Gender Under Moral Development," Journal
+of Public Administration Research and Theory, Vol. 9, #3, pp.459-471.
+
+Description: Ethics scores for a sample of members of the U.S. Coast
+Guard by Gender (1=Male, 2=Female) and Rank (1=Officer, 2=Enlisted).
+Data simulated to match cell means and SDs.
+
+Variables/Columns
+Gender           8
+Rank            16
+Ethics Score    18-24

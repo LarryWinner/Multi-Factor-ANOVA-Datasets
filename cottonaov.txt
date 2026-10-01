@@ -1,0 +1,14 @@
+Dataset:  cottonaov.dat
+
+Source: E.S. Rudnick (1950). "Statistical Quality Control at Work in a Cotton
+Mill," Textile Reseach Journal, Vol. 20, pp. 727-734.
+
+Description: Roving measurements of cotton in a mill, obtained on 4 days, from
+4 spindles, at each of 3 positions. Presumably day and spindle would be random
+effects.
+
+Variables/Columns:
+Day   8
+Spindle   16
+Position   24  /* 1=Outside, 2=Middle, 3=Inside  */
+Roving measurement   30-32

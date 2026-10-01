@@ -1,0 +1,19 @@
+Dataset: caffeine_cola.dat
+
+source: A.N. Garand and L.N. Bell (1997). "Caffeine Content of Fountain and 
+Private-Label Store Brand Carbonated Beverages," Journal of the
+American Dietetic Association, Vol. 97, #2, pp. 179-182.
+
+Description: Caffeine content (mg/12oz) for 2 formulations (sugar/diet)
+of 2 Brands (Coca-Cola/Pepsi) from 12 restaurants (5 Coca-Cola, 7 Pepsi).
+10 replicates per restaurant per formulation. Note that restaurants are
+nested within brand, not formulation. Data simulated to preserve 
+original means and SDs.
+
+Variables/Columns: 
+Treatment    8   /* 1=Coca-Cola, 2=Diet Coke, 3=Pepsi, 4=Diet Pepsi  */
+Brand    16    /* 1=Coke, 2=Pepsi   */
+Formulation   24    /* 1=Sugar,  2=Diet  */
+Restaurant   31-32   /* 1=Red Lobster, 2=Applebees, 3=McDs, 4=BK, 5=Hardees
+  6=Arbys, 7=Subway2, 8=Subway1,  9=KFC, 10=PizzaHut, 11=TacoBell, 12=Wendys */
+Caffeine Content  (mg/12oz)   34-40

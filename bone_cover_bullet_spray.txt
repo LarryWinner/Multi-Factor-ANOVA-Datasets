@@ -1,0 +1,24 @@
+Dataset:  bone_cover_bullet_spray.csv
+Source: J. Newton, A. Savage, N. Coupar, J. Fraser (2020). “Preliminary
+Investigation into the Use of Micro-CT Scanning on Impact Damage to
+Fabric, Tissue and Bone Caused by Both Round and Flat Nosed Bullets,”
+ Science & Justice, Vol. 60, pp. 151-159.
+
+
+Description: Experimental results of shooting Round and Fat Nose Bullets at:
+
+Bones (1 = Shoulder, 2 = Leg)
+Covering (1 = None, 2 = Skin Substitute, 3 = Cotton, 4 = Denim)
+12 Specimens per bone type (each covering was assigned to 3 shoulders and 3 legs)
+
+Responses: Distance of spray pattern (mm)
+
+
+Variable Names:
+boneType  (1 = Shoulder, 2 = Leg)
+boneID    (1-24)
+cover  (None, SkinSub, Cotton, Denim)
+cover.grp   (1 = None, 2 = Skin Substitute, 3 = Cotton, 4 = Denim)
+Y.flat   (Distance of spray for Flat Nosed Bullet)
+Y.round   (Distance of Spray for Round Bullet)
+

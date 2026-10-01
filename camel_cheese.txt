@@ -1,0 +1,25 @@
+Dataset: camel_cheese.csv
+
+Source: A.C. Moynihan, S. Govindasamy-Lucey, J.J. Jaeggi, M.E. Johnson,
+J.A. Lucey, P.L.H. McSweeney (2014). "Effect of Camel Chynosin on the Texture,
+Functionality, and Sensory Properties of Low-Moisture, Part-Skim
+Mozzarella Cheese," Journal of Dairy Science, Vol. 97, #1, pp.85-96.
+
+Description: Results of a split-plot experiment with Whole-Plot
+factor: Chymosin treatment (1=High Bovine Calf (HBCC), 2=Low Bovine Calf (LBCC),
+3=High Camel (HCC), 4=Low Camel (LCC)). Sub-Plot factor: Ripening Time
+(14, 28, 56, 84 days). 
+Experiment conducted on 3 cheesemaking days (blocks).
+Three responses: 
+1) hardness of melted cheese
+2) adhesiveness of mass of unmelted cheese
+3) blister quantity of melted cheese.
+Data simulated to match treatment means and ANOVA table.
+
+Variables/Labels
+Chymosin Treatment   (c.trt)
+Ripening Time    (c.time)
+Block       (c.block)
+hardness of melted cheese   (hardness)
+adhesiveness of mass   (adhesive)
+blister quantity   (blister)

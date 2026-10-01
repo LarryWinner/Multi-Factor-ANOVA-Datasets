@@ -1,0 +1,31 @@
+Datasets: creativelifecycles.dat, creativelifecycles.csv
+
+Sources: 
+D.K. Simonson (2007). "Creative Life Cycles in Literature: Poets vs Novelists
+or Conceptualists versus Experimentalists?," Psychology of Aesthetics,
+Creativity, and the Arts, Vol. 1, #3, pp. 133-139
+
+D.W. Galenson (2003). "Literary Life Cycles: The Careers of American Poets."
+Working Paper 9856, National Bureau of Economic Research.
+
+
+D.W. Galenson (2004). "A Portrait of the Artist as a Young or Old
+Innovator: Measuring the Careers of Modern Novelists."
+Working Paper 10213, National Bureau of Economic Research.
+
+
+Description: Age at peak of career for 23 writers classified as
+novelist/poet and as Conceptualists(finders)/experimentalists(seekers).
+Data in Simonson has one misclassification (Williams as conceptualist)
+and one ommission (Dickens age at peak). Using corrected data and assigning
+Wilbur death in 2007, reproduces Regression results (using centered age at 
+death).
+
+Variables/Columns
+author   1-20
+Type   28  /* 1= Novelist,  0=Poet  */
+Style          36   /* 1=Experimentalist, 0=Conceptualist  */
+ageDth   42-44  /* age at Death  */
+cageDth  (Centered age at death)    46-52
+agePeak (Age at career peak)     59-60
+

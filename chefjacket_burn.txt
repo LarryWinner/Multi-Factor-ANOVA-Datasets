@@ -1,0 +1,21 @@
+Dataset: chefjacket_burn.csv
+
+Source: S. Devarajan, R.H. McQueen, S. Wen (2017). "Can Common Finishing
+Treatments Used in Chef Jacket Fabrics Improve Protection Against Scald
+Injury?," Fashion and Textiles, 4:19, pp. 1-15.
+
+Description: Three-Way factorial experiment with factors:
+Finish: 1=Regular, 2=Water, 3=Soil, 4=Teflon
+Structure: 1=Plain, 2=Twill
+Number of layers: 1,2,3
+Responses: Absorbed Energy (kJ/m^2) at Upper, Middle, and Lower Sensors
+Data generated to match means/SDs (no attempt at multivariate responses)
+
+Variable Names:
+finish
+structure
+layers
+trt      (combination of factor levels)
+absEnrgU
+absEnrgM
+absEnrgL

@@ -1,0 +1,11 @@
+Dataset:  cardiacoutput_measure.csv
+
+Source: J.M. Bland and D.G. Altman (1999). "Measuring Agreement in Method
+Comparison Studies," Statistical Methods in Medical Research, Vol. 8,
+pp. 135-160.
+
+Description: Cardiac output measurements on 12 subjects, with 2 methods,
+and with varying replicates per method per subject. Methods:
+radionuclide ventriculography (rv_cardout)
+impedance cardiography  (iv_cardout)
+Subject ID is labelled: subj_id

@@ -1,0 +1,18 @@
+Dataset:  celebrityendorse_attention.csv
+
+Source: P.-S. Wei, H.-P. Lu (2013). "An examination of the Celebrity 
+Endorsements and Online Customer Reviews Influence Female Consumers'
+Shopping Behavior," Computers in Human Behavior, Vol. 29, pp. 193-201.
+
+Description: Experiment with 2-factors: Product (1=Shoes, 2=Ink Toner)
+and Endorser (1=Celebrity, 2=Online customer). Completely Randomized
+(Between Subjects) Design. Data simulated to match trt means and SDs.
+Response is subjects' attention score (average of 3 1-5 responses).
+
+Variable names:
+trt_group   /* 1=shoes/celeb, 2=shoes/online, 3=toner/celeb, 4=toner/online
+product     /* 1= shoes, 2=ink toner */
+endorser   /* 1=celebrity, 2=online customer  */
+shoe       /* 1=shoe, 0=toner   */
+celebrity    /* 1=celebrity, 0=online customer   */
+attention    /* response variable */
