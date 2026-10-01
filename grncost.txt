@@ -1,0 +1,15 @@
+Dataset: grncost.dat
+
+Source: T. Dick (1982). "Mechanization and North American Prairie Farm Costs
+1896-1930", The Journal of Economic History, Vol 42, #1, pp191-198.
+
+Description: Prices per acre for 3 Grains in 7 Geographic areas
+over 7 time periods (in Constant 1913 Dollars).
+
+Variables/Columns:
+
+Region 8 /* 1=Manitoba, 2=Saskatchewan, 3=Alberta, 4=Minn, 5=ND, 6=SD, 7=MT */
+Country 16  /* 1=Canada, 2=U.S.  */
+Period  24  /* 1=1896-1900, 2=1901-1905, ..., 7=1926-1930 */
+Grain  32  /* 1=Wheat, 2=Oats, 3=Barley */
+Cost per acre produces  36-40  /* in 1913 dollars  */

@@ -1,0 +1,18 @@
+Dataset:  ingots.dat
+Source: Riley (1887). Some Investigations as to the Effects of Different Methods 
+of Treatment of Mild Steel in the Manufacture of Plates. Journal of the Iron and 
+Steel Institute, Vol. 30 #1, pp. 121-162
+
+Description: Lengthwise breaking strain and contraction of area in plates that 
+were rolled from slabs made from ingots of varying types.
+
+Variables/Columns
+Pre treatment  8  (1=Reheated,0=Soaked) 
+Slabbing Method    16  (1=Hammered, 0=Cogged)
+Slab Thickness    24   (4ò,8ò)
+Plate Thickness   29-32   (1ò,0.5ò,0.25ò)
+Annealing         40      (1=Yes,0=No)
+Breaking Strain    45-48
+Contraction of Area   53-56
+
+

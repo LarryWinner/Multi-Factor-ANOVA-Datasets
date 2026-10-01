@@ -1,0 +1,29 @@
+Dataset: koji.csv
+
+Source: A. Iwami, Y. Kajiwara, H. Takashita, and T. Omori (2005). "effect
+of the Variety of Barley and Pearling Rate on the Quality of Shochu Koji,"
+Journal of the Institute of Brewing, Vol. 111, #3, pp. 309-315.
+
+Description: 2-factor study (1 rep per trt, average of 3 measurements) 
+relating various measures to 
+Barley Variety (1=Stirling, 2=Schooner, 3=Arapiles, 4=Grimmett, 5=Nishinohohi) 
+Pearling Rate (50%, 60%, 70%, 80%). 
+Authors tested variables with *.
+
+Variables/Columns
+barley      (Barley Variety)       
+pearlRt     (Pearling Rate) 
+totStarch   (Total Starch)
+nitrogen      
+phosphorous   
+potassium      
+magnesium   
+calcium  
+mycelia     * (mug/g-drykoji)/100    
+alphAmyl    * (alpha-amylase)  
+glucoAmyl   * (glucoamylase)  
+acidProt    * (acid protease)
+acidCarb    * (acid carboxypeptidase)
+acidity     * 
+glucose 
+maltose   

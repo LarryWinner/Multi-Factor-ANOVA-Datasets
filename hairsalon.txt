@@ -1,0 +1,13 @@
+Dataset: hairsalon.dat
+
+Source: D. H. Dean (2012). "Gender, Ethnic Identity and Patronage Likelihood
+for a Unisex Hair Salon," Young Consumers, Vol. 13, #2, pp. 124-135
+
+Description: Patronage likelihoods among students exposed to and ad
+for a unisex hair salon by ethnicity and gender. Ratings on scale of 1-9.
+
+Variables/Columns
+Group         8   /* 1=W/M 2=W/F, 3=non-W/M, 4=non-W/F  */
+Ehtnicity    16   /* 1=White,  2=non-White   */
+Gender       24   /* 1=Male, 2=Female   */
+Patronage likelihood     32

@@ -1,0 +1,14 @@
+Dataset: hairyarn.dat
+
+Source: X. Wang, W. Huang, X. Huang (1999). "Effect of Test Speed and Twist
+Level on the Hairiness of Worsted Yarns," Textile Research Journal,
+Volume 69, pp.889-892.
+
+Description: Hairiness index scores for yarns at 3 test speeds of
+3 different twists, spun on 6 bobbins. 
+
+Variables/Columns
+Twist Level  8  /* 1=373tpm, 2=563, 3=665   *?
+Test Speed   16  /* 1=25m/min, 2=100, 3=400 */
+Bobbin Number  24
+Hairiness Index (x100)   29-32

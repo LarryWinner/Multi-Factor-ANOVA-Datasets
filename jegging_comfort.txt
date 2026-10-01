@@ -1,0 +1,18 @@
+Dataset: jegging_comfort.csv
+
+Source: Z. Degirmenci and N. Celik (2016). "Investigation of Thermal Comfort Properties of Jeggings
+Manufactured by the Use of Knitted Denim-Like Fabrics," Journal of Testing and Evaluation,
+Vol. 44, #1, pp. 268-279.
+
+Description: Two-way Factorial experiment with 9 Fleece Materials and 2 yarn counts.
+Response = Air Permeability (mm/s)
+10 replicates per treatment. Data generated to match treatment means and Analysis of Variance.
+Fleece Materials: 1=Bamboo(100%), 2=Tencel(100%), 3=Modal(100%), 4=Viscose(100%), 5=Cotton(100%),
+                  6=Polyester(100%), 7=Polyester/Cotton(65/35%), 8=Modal/Cotton(65/35%),
+                  9=Polyester/Viscose(65/35%)
+Yarn Count: 1=30/20, 2=(30/30)
+
+Variable Names:
+fleeceMat
+yarnCnt
+airPerm

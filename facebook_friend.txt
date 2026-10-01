@@ -1,0 +1,22 @@
+Dataset:   facebook_friend.csv
+
+Source: S.S. Wang, S-I. Moon, K.H. Kwon, C.A. Evans, M.A. Stefanone (2010).
+"Face-Off: Implications of Visual Cues on Initiating Friendship on Facebook,"
+Computers in Human Behavior, Vol. 26, pp. 226-234.
+
+Description: Results of a study looking at various factors on a person's
+      willingness to "friend" a potental facebook profile owner.
+Response: Willingness to friend the profile owner (Original Likert scale 1-7, data generated to be > 0., match mean, sd)
+Factors:
+Evaluator (1=Male, 2=Female)
+Profile Owner (1=Male, 2=Female)
+Genders (1=Same, 0=Opposite)
+Profile picture  (1=Attractive, 2=Unattractive, 3=No picture)
+
+Variable names
+grp.cell (1-12) - cell of 2x3x2 Table
+gen.prof (1=M, 2=F)  - Gender of Profile owner
+gen.eval (1=M, 2=F)  - Gender of Evaluator
+picture (1=Att, 2=Unatt, 3=No Pic)
+gen.same (1=Yes, 0=No)
+willFrnd  - Willingness to Friend the Profile Owner

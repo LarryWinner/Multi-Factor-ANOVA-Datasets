@@ -1,0 +1,19 @@
+Dataset: kharttex.dat
+
+Source: A.H.N. Mousa(1978). "Analysis of the Effect of Size Formulation
+Variations on Yarn Tenacity and Elongation," Textile Research Journal,
+Vol.48, pp. 713-717.
+
+Description: Factorial experiment relating yarn strength and elongation to
+4 factors: Corn Starch, nordux, Tylose, and Trifix. 
+Conducted in Khartoum Spinning and Weaving Factory
+Method.
+
+Variables/Columns
+Experiment(Replicate)   8
+Corn Starch   16  /* 0=67g,  1=110g  */
+Nordux   24    /*  0=9g,   1=18g  */
+Tylose    32   /*  0=4.5g,   1=13.5g   */
+Trifix    40  /*  0=2.5g, 1=7g  */
+Single strength   44-48
+Percentage Elongation   53-56

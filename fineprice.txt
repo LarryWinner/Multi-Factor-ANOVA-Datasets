@@ -1,0 +1,24 @@
+dataset: fineprice.dat
+
+Source: U. Gneezy and A. Rustichini (2000). "A Fine is a Price," Journal
+of Legal Studies, Vol. XXIX, pp. 1-17.
+
+Description: Effects of Parents showing up late at child care centers
+in Israel before and after late pick-up fee program is established.
+Factors include:
+Day Care Center (1-10)
+Treatment (late Fee Policy established or not, DCC1-6=trt, DCC7-10, control)
+Week  (1-20, Treatment began for Treatment group at week 5, ended at week 16)
+Block (5 Blocks of weeks: 1-4,5-8,9-12,13-16,17-20)
+Number of children in day care center
+Number of parents arriving late
+Arcsin of sqrt(proportion of late parents that week)
+
+Variables/Colunms
+Day Care Center   7-8
+Trt          16  /* 1=Late fee policy, 2=Control  */
+number of children in center   23-24
+week #    31-32
+block #   40    /* 1=pre-trt, 2-4=in-trt, 5=post-trt  */
+number of late parents   47-48
+arcsin(sqrt(late parents/(5*numkids))    51-56

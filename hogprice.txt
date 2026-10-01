@@ -1,0 +1,16 @@
+Dataset: hogprice.dat
+
+Source: T.W. Schultz and G.W. Snedecor (1933). "Analysis of Variance
+as an Effective Method of Handling the Time Element in Certain
+Economic Statistics", JASA, Vol. 28, #181, pp14-30.
+
+Description: Monthly hog prices paid to producers in
+4 districts from 1924-25 to 1930-31 ($/100LBs)
+
+Variables/Columns
+Calendar Month 1-3
+Calendar Year  13-16
+District  24
+"Fiscal" year  (1924-25=1)  32
+"Fiscal" Month  (Oct=1)  40
+Price  44-48

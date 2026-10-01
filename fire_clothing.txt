@@ -1,0 +1,24 @@
+Dataset: fire_clothing.csv
+
+Source: H. Jamshaid, R.K. Mishra, M. Muller, N. Ahmad, M. Ijaz, M. Shoaib, V. Chandan,
+P. Jirku (2025). "Optimization of Flammability and Thermo-Physiological Comfort Properties in
+Fire-Fighter's Protective Clothing Using VIKOR Technique," Results in Engineering,
+Vol. 26, 104630,   https://doi.org/10.1016/j.rineng.2025.104630
+
+Description:
+2-Factor ANOVA with 1 observation per treatment.
+Factor A: Fiber Blends: 1=100% Nomex, 2=100% Protex, 3=100% Viscose Rayon,
+                        4=70% Nomex/30% Carbon, 5=70% Nomex/30% Viscose, 6=70% Nomex/30% Protex
+Factor B: Fabric Structure: 1=Plain, 2=Matt, 3=Pointed Twill, 4=2/1 Warp Rib
+Responses:
+Y01=Abrasion, Y02=Breaking Load (N), Y03=Break Elongation (%), Y04=weft Breaking load (N),
+Y05=weft Break elongation (%), Y06=warp shrinkage, Y07=weft shrinkage, Y08=OMMC,
+Y09=Thermal Resistance (m2 K/W), Y10=RHV, Y11=Softness Score, Y12=Smoothness Score,
+Y13=Char Length (mm), Y14=After flam (sec), Y15=Radiant Heat Temp C Difference,
+Y16=Convective Heat Temp C Difference
+
+Variable Names:
+expNum   (1-24)
+fiberBlend
+fabStruct
+Y01-Y16

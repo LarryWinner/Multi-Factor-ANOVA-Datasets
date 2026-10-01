@@ -1,0 +1,15 @@
+Dataset:  dyeprop.dat
+
+Source: J. Lindberg (1953). "Relationship Between Various Surface Properties
+of Wool Fibers: Part III: Sorption of Dyes and Acids in Wool Fibers," Textile
+Research Journal, Vol. 23, pp. 573-584
+
+Description: Diffusion Coefficients from a Latin square design
+with 4 stirring rates (1000, 2000, 2500, 3000 rpm), 4 sample weights
+(0.4,0.5,0.6,0.7 grams), and 4 lengths (1,2,3,4 mm)
+
+Variables/Columns
+Stirring Rate   8
+Weight    16
+Length   24
+Diffusion Coefficient  (x10^6 cm^2/min)   27-32

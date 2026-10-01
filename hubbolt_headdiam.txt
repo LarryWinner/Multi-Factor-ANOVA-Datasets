@@ -1,0 +1,16 @@
+Dataset: hubbolt_headdiam.csv
+
+Source: J. Singh, I.P.S. Ahuja, H. Singh, A. Singh (2022). "Development and Implementation
+of Autonomous Quality Management System (AQMS) in an Automotive Manufacturing using
+Quality 4.0 Concept - A Case Study," Computers  & Industrial Engineering, Vol. 168,
+https://doi.org/10.1016/j.cie.2022.108121
+
+Description:
+Gage Repeatability and Reproducibility study of measurements of hub bolt head diameter
+in an automotive manufacturing facility. There were 5 parts, measured by 3 operators, twice.
+
+Variable Names:
+part
+operator
+rep
+headDiam
