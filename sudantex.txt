@@ -1,0 +1,17 @@
+Dataset: sudantex.dat
+
+Source: A.H.N. Mousa(1978). "Analysis of the Effect of Size Formulation
+Variations on Yarn Tenacity and Elongation," Textile Research Journal,
+Vol.48, pp. 713-717.
+
+Description: Factorial experiment relating yarn strength and elongation to
+3 factors: Corn Starch, nordux, and Fats. Conducted in Sudan Textile Factory
+Method.
+
+Variables/Columns
+Experiment(Replicate)   8
+Corn Starch   16  /* 0=85g,  1=140g  */
+Nordux   24    /*  0=50g,   1=100g  */
+Fats    32   /*  0=12.5g,   1=30g   */
+Single strength   36-40
+Percentage Elongation   45-48

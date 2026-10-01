@@ -1,0 +1,18 @@
+Dataset: ropestrength.dat
+
+Source: S. Cutler and J. Lebaron (1992). "Performance of Nylon Climbing
+Ropes",
+http://class.et.byu.edu/mfg340/qualityreports/nylon.htm
+
+Description: Results of a 2^4 factorial experiment measuring the amount
+of pressure in pounds needed to have climbing ropes fail. Four factors:
+Abrasion, Dirt, Fatigue, Soaked (all Present/Absent). Two replicates
+ber combination of factor levels.
+
+Variabls/Columns
+Run #   7-8
+Abrasion  16  /* 1=Yes, 0=No  */
+Dirt   24
+Fatigue   32
+Soaked   40
+Pressure to failure (pounds)  46-48

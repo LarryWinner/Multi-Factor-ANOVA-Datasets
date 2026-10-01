@@ -1,0 +1,13 @@
+Dataset: suntan.dat
+
+Source: Jermann, R., Toumiat, M., and Imfeld, D. (2001). "Development
+of an in vitro Efficacy Test for Self-Tanning Formulations," International
+Journal of Cosmetic Science, Vol. 24(1), pp. 35-42
+
+Description: Total Colour change for 2 brands, each of 3 formulations
+for self-tanning products. Four replicates in each condition.
+
+Variables/Columns
+Brand   8  /* 1=Erythrulose,  2=Dihhydroxyacetone  */
+Formulation   16  /* 1=Solution, 2=Gel, 3=Cream  */
+dE* Score   18-24   /* Total color change  */

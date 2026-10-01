@@ -1,0 +1,15 @@
+﻿Dataset:  saltgrass.dat
+
+Source: A. Bustan, D. Pasternak, I. Pirigova, M. Durikov, T. Devries, S. El-Meccawi, A. Degen (2005).
+"Evaluation of Saltgrass as a Fodder Crop for Livestock," Journal of the Science of Food and
+Agriculture, Vol. 85, pp. 2077-2084
+
+Description: Ash content (g/kg DM) of saltgrass for 16 locations at 4 salinity 
+levels (1.5, 10, 30, 50 dS/m), with 6 replicates per treatment combination. Data simulated
+to match results in Table 4.
+
+Variables/Columns
+Location    7-8
+Salinity    16   /* 1=1.5, 2=10, 3=30, 4=50  */
+rep number   24
+Ash content   26-32

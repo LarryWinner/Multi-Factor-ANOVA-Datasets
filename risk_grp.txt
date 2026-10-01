@@ -1,0 +1,20 @@
+Dataset: risk_grp.dat
+
+Source: R.E. Knox and R.K. Safford (1976). "Group Caution at the Race Track," 
+Journal of Experimental Social Psychology, Vol.12, pp.317-324
+
+Description: Results of wagers based on individuals and as groups of 4
+at a race track. Due to methodological history, analyses of individual
+bets were made on both the mean and median of individuals for the group.
+Factors:
+Risk   (Individual wager versus Group wager)
+Order  (Individual/Group   versus    Group/Individual)
+Group  (18 groups made up of 4 subjects each)
+All groups got each Risk condition,  9 for each ordering.
+
+Variables/Columns
+Group            7-8    /* Nested under order  */
+Risk Condition    16  /* 1=Individual, 2=Group  */
+Order            24  /*  1=I/G,   2=G/I  */
+Response1      26-32     /* Wager, with Individual=Mean   */
+Response2      34-40    /* wager, with Individual=Median  */

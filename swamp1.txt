@@ -1,0 +1,14 @@
+Dataset:  swamp1.dat
+
+Source: K.C. Ewel and L.P. Wickenheiser (1988). "Effect of Swamp Size
+on Growth Rates of Cypress (Taxodium Distichum) Trees," American Midland
+Naturalist, Vol. 120, #2, pp.362-370
+
+Description: Water depths at 27 locations within each of 9
+swamps (3 Large, 3 medium, 3 small) in Florida. Data
+simulated to match published results.
+
+Variables/Columns
+Swamp Size    8   /* 1=Small, 2=Medium, 3=Large  */
+Swamp Number   16  /* 1:3=Small, 4:6=Med, 7:9=Large  */
+Water Level  19:24   

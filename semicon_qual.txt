@@ -1,0 +1,16 @@
+Dataset: semicon_qual.csv
+
+Source: C.R. Jensen (2002). "Variance Component Calculations: Common
+Methods and Misapplications in the Semiconductor Industry," Quality
+Engineering, Vol. 14, #4, pp. 647-657.
+
+Description: Measurements made on 2 silicon wafers, selected from each
+of 20 lots, with 9 measurements made per wafer. Variable name was not
+given for proprietary reasons.
+
+Variable Names
+lotNum   
+wafer (w/in lot number)   
+wafer1 (across lot) number   23-24
+replicate 
+Y

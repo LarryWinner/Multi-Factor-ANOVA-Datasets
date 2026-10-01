@@ -1,0 +1,17 @@
+Dataset: poker_skill.dat
+
+Source: G. Meyer, M. von Meduna, T. Brosowski, T. Hayer (2012). "Is poker
+a Game of Skill or Chance? A Quasi-Experimental Study," Journal of Gambling 
+Studies, Online First DOI 10.1007/s10899-012-9327-8
+
+Description: Results from 3-Factor ANOVA to investigate effects of
+poker skill (average/expert), poker hand (bad/neutral/good), and
+bet limit (fixed/none) on winnings. 25 individuals in each of 12 conditions
+(each individual in only one treatment). Data simulated to match
+means and SDs by condition.
+
+Variables/Columns
+Skill   8    /* 1=Expert, 2=Average  */
+Hand   16    /* 1=Bad, 2=Neutral, 3=Good   */
+Limit  24    /* 1=Fixed, 2=None  */
+Final Cash Balance (euros)  27-32

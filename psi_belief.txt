@@ -1,0 +1,15 @@
+Dataset: psi_belief.dat
+
+Source: K. Walsh and G. Moddel (2007). "Effect of Belief on Psi Performance
+in a Card Guessing Task," Journal of Scientific Exploration," 
+Vol.21, #3, pp.501-510
+
+Description: Results of card guessing task (100 trials, 5 options,
+expected number correct=20), among 6 believers and 6 non-believers,
+with 3 of each group receiving pro-psi argument, 3 receiving anti-psi
+argument.
+
+Variables/Columns
+Prior Pelief   8  /* 1=Believer, 2=non-believer  */
+Argument presented   16  /* 1=pro-psi,  2=anti-psi  */
+Score    23-24   /* out of 100 w/ 20 expected by chance  */

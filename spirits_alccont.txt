@@ -1,0 +1,17 @@
+Dataset: spirits_alccont.csv
+
+Source: A.S. Oliveira, F.M. Dalla Nora, R.O. Mello, P.A. Mello, B. Tischer,
+A.B. Costa, J.S. Barin (2017). "One-Shot, Reagent-Free Determination of the
+Alcohol Content of Distilled Beverages by Thermal Infrared Enthalpimetry,"
+Talanta, Vol. 171, pp. 335-340.
+
+Description: Measurements of alcohol content in 3 types of distilled spirits
+(Vodka, Whiskey, Cachaca) and 3 brands nested within each spirit by
+thermal infrared enthalpimetry (TIE), with 24 replicates per brand.
+Data simulated to match means/SDs reported.
+
+Variable names:
+spiritType (1=Vodka, 2=Whiskey. 3=Cachaca)
+brandSprt  (1-3=Vodka brands, 4-6=Whiskey brands, 7-9=Cachaca brands)
+labelAC    (label % alcohol)
+alcCntnt   (measured % alcohol)

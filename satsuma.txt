@@ -1,0 +1,23 @@
+Dataset: satsuma.csv
+
+Source: S. Qiu and J. Wang (2015). "Effects of Storage Temperature and
+Time on Internal Quality of Satsuma Mandarin (Citrus Unshiu marc.) by Means 
+of E-Nose and E-Tongue Based on Two-Way MANOVA Analysis and Random Forest,"
+Innovative Food Science and Emerging Technologies, Vol. 31, pp. 139-150.
+
+Description: Experimental results of experiment measuring 4 responses:
+Vitamin C, Total solube solid (TSS), Total Acid (TA), and sugar/acid ratio (SA).
+2 Factors: Storage Temperature (4C, 10C, 20C) and Storage days (3,6,9,12).
+The 0 day measurements do not seem to have been included in analysis.
+Data simulated to match univariate results. Multivariate analysis purely
+for educational/computational use.
+
+Variables
+Temp
+Time
+Temp.ID   (1,2,3)
+Time.ID   (1,2,3,4)
+vC    (Vitamin C)
+TSS
+TA
+SA

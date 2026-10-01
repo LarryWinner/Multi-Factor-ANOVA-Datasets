@@ -1,0 +1,13 @@
+Dataset:  sensory_assessor.dat
+
+Source: P.M. Brockhoff and I.M. Skovgaard (1994). "Modelling Individual
+Differences Between Assessors in Sensory Evaluation," Food Quality and
+Preverence, Vol. 5, pp. 215-224
+
+Description: Results of experiment where 8 assessors rated each of 5 products 
+4 times. Ratings were on a 0-15 visual analog scale.
+
+Variables/Columns
+Assessor    8
+Product    16
+Rating    20-24

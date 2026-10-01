@@ -1,0 +1,18 @@
+Dataset:  pineapple_storage.csv
+
+Source: P.K. Paul, S.K. Ghosh, D.K. Singh, N. Bhowmick (2014). "Quality of Osmotically Pre-Treated and Vacuum
+Dried Pineapple Cubes on Storage as Influenced by Type of Solutes and Packaging Materials, 
+Journal of Food Science and Technology, Vol. 51, #8, pp. 1561-1567.
+
+Description: Results of experiments involving pre-treated pineapple cubes over various storage times.
+Factor A: Osmotical pre-treatment solution: 1=sucrose, 2=invert sugar, 3=sorbitol
+Factor B: Packaging: 1=glass bottle, 2=HDPE pouch, 3=PVDC pouch
+Factor C: Storage Period (months): 1-6
+Response: Moisture Content (grams/100g initial solids)
+
+Variable Names:
+op.trt  (combinations of levels of Factors A and B)
+osmo.pre
+package
+storage
+moisture

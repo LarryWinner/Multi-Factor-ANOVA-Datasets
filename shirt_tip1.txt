@@ -1,0 +1,16 @@
+Dataset: shirt_tip1.csv
+
+Source: N. Gueguen and C. Jacob (2014). "Clothing Color and Tipping:
+Gentlemen Patrons Give More Tips to Waitresses with Red Clothes,"
+Journal of Hospitality & Tourism Research, Vol. 38, #2, pp. 275-280.
+
+Description: Waitress shirt color (Black, White, Red, Yellow, Green, Blue),
+customer gender (1=Male, 2=Female), and tip in Euros among tippers in restaurant in France
+(mandatory 12% base tip in France). Data generated to match means and SDs
+ 
+
+Variable Names
+ID
+cust.gend    (1=Male, 2=Female)
+shirt.color   (1=Black, 2=White, 3=Red, 4=Yellow, 5=Blue, 6=Green)
+tip  (Euros)

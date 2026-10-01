@@ -1,0 +1,25 @@
+Dataset:  roughness_msa.csv
+
+Source: R.S. Peruchi, A.P. Paiva, P.P. Balestrassi, J.R. Ferreira,
+R. Sawhney (2014). "Weighted Approch for Multivariate Analysis of Variance
+in Measurement System Analysis," Precision Engineering, Vol. 38, pp. 651-658.
+
+Description: Results of an experiment measuring various aspects of
+roughness from a turning process 
+among 12 parts by 3 operators over 3 replicates.
+R_a = average roughness
+R_y = maximum    "
+R_z = ten point height
+R_q = root mean square
+R_t = maximum peak to valley
+
+Variable Names:
+part
+operator
+replicate
+R_a
+R_y
+R_z
+R_q
+R_t
+

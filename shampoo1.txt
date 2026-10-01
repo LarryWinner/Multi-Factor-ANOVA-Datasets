@@ -1,0 +1,25 @@
+Dataset: shampoo1.csv
+
+Source: J. Lenoir, I. Claerhout, P. Kestelyn, A. Klomp, J-P. Remon, E. Adriens (2011).
+"The slug mucosal irritation (SMI) assay: Development of a screening tool
+for the evaluation of ocular discomfort caused by shampoos," Toxicology in Vitro, Vol. 25, pp. 1919-1925.
+
+Description: Experiment conducted to measure SMI in 8 shampoos in 8 runs, with 3 replicates per shampoo/run
+Response: SIB (Stinging, Itching, and Burning score when applied to slugs, YUCK!)
+Shampoos: 
+1  Water (Negative Control)
+2  Artificial Tear
+3  Shampoo A
+4  Shampoo B
+5  Shampoo C
+6  Shampoo D
+7  Shampoo E
+8  1% Benzalkonium Chloride (BAC, Positive Control)
+Data generated to match Shampoo/Run Means and SDs
+
+Variable Names:
+Shampoo (Character)
+Type.ID  
+Run
+SIB  
+

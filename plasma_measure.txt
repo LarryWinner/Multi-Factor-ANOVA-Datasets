@@ -1,0 +1,11 @@
+Dataset:  bldprs_measure.csv
+
+Source: J.M. Bland and D.G. Altman (1999). "Measuring Agreement in Method
+Comparison Studies," Statistical Methods in Medical Research, Vol. 8,
+pp. 135-160.
+
+Description: Plasma volume measurements on 99 subjects, with 2 methods,
+Methods (normal values):
+Normal values due to Nadler (nadler)
+Normal values due to Hurley (hurley)
+Subject ID is labelled: subj_id

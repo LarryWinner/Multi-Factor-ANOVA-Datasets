@@ -1,0 +1,22 @@
+Dataset:  plate_bal_col.dat
+
+Source: D.A. Zellner, M. Lankford, L. Ambrose, P. Locher (2010). "Art on the
+Plate: Effect of Balance and Color on Attractiveness of, Willingness to Try
+and Liking for Food," Food Quality and Preference, Vol. 21, pp. 575-578.
+
+Description: Two factor experiment varying position of tahini
+and water chestnuts on plate
+(symmetric/balanced vs asymmetric/unbalanced) and the color of
+tahini on plate (monochrome vs colorful).
+Three responses made: attractiveness (-100 to 100), 
+willingness to try (0 to 100) and hedonic liking (-100 to 100).
+Data simulated to match mean and SD for each condition.
+No correlations given- analyze one variable at a time.
+17 subjects per condition (CRD).
+
+Variables/Columns
+Balance   8    /* 1=Balanced, 2=Unbalanced  */
+Color     16   /* 1=Mono, 2=Color  */
+Attractiveness score   18-24
+Willingness score    26-32
+Hedonic score        34-40

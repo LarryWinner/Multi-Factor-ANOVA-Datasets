@@ -1,0 +1,15 @@
+Dataset: outer_inner_layer.dat
+
+Source: H. Wu and J. Fan (2008). "Measurement of Moisture Transport
+with Multi-Layer Clothing Assemblis Consisting of Different Types
+of Batting: A Factorial Design Analysis," Textile Research Journal,
+Vol. 78 (11): 988-995
+
+Description: Experimental Results with 3 outer layers (Wool, Polyester,
+Down) and 3 inner layers (Wool, Polyester, Down). Response
+is moisture accumulation (grams). 2 reps/treatment.
+
+Variables/Columns
+Outer Layer   8   /* 1=W, 2=P, 3=D  */
+Inner Layer   16   /* 1=W, 2=P, 3=D  */
+Water accumulation   18-24

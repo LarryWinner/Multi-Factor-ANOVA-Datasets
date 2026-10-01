@@ -1,0 +1,16 @@
+Dataset: semen_infertile.csv
+
+Source: M.R. Safarinejad and S. Safarinejad (2009). "Efficacy of Selenium and/or 
+N-Acetyl-Cysteine for Improving Semen Parameters in Infertile Men: A Double-Blind,
+Placebo-Controlled, Randomized Study," The Journal of Urology, Vol. 181, pp. 741-751.
+
+Description: Study to measure effects of Selenium and N-Acetyl-Cysteine on sperm
+parameters for infertile men. Original sample sizes were 106,105,105,104. All set at 105 for balance. Data generated to match means and SDs. Not appropriate for multivariate analysis
+
+Variables/Names
+selenium    (0/1)
+nac         (0/1)
+spermCnt    (sperm count 10^6)
+spermConc   (sperm concentration 10^6/ml)
+spermMot    (sperm motility  % motil)
+testosterone   (nmol/l)

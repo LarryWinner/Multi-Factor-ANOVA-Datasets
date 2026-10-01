@@ -1,0 +1,15 @@
+Dataset: sedumwr.dat
+
+Source: J. Gurevitch and S. Chester (1986). "Analysis of Repeated
+Measures Experiments," Ecology, 67(1), pp. 251-255
+
+Description:
+ Relative CO2 exchange (change in C02/plant fresh mass) for
+ sedum wrightii plants under 2 conditions at 4 time points (3 replicates
+ per treatment).
+
+ Variables/Columns
+ Treatment  8  /* 1=Dry (water witheld for several weeks) 2=Wet  */
+ Replicate (within treatment)   16
+ Time Point  24  (2-hour intervals)
+ Relative C02 exchange   27-32  /* Negative = output, Positive = uptake  */

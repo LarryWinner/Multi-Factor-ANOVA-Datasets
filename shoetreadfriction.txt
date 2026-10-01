@@ -1,0 +1,21 @@
+Dataset: shoetreadfricton.csv
+
+Source: M.G. Blanchette and C.M. Powers (2015). "The Influence of Footwear
+Tread Groove Parameters on Available Friction," Applied Ergonomics,
+Vol. 50, pp. 237-241.
+
+Description: 3 Factor experiment relating coefficient of friction (COF)
+to: 
+groove orientation (1=oblique(angled), 2=perpendicular (side-to-side),
+3=parallel (front to back))
+groove width (3, 6, or 9 mm)
+groove depth (2, 4, 6 mm)
+1 replicate per treatment, n=27
+
+Variables
+runNum
+COF
+orient
+width
+depth
+

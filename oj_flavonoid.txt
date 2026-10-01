@@ -1,0 +1,27 @@
+Dataset: oj_flavonoid.csv
+
+Source: J. Vanamala, L. Reddivari, K.S. Yoo, L.M. Pike, B.S. Patil (2006). 
+"Variation in the Content of Bioactive Flavonoids in Different Brands of
+Orange and Grapefruit Juices," Journal of Food Composition and Analysis,
+Vol. 19, pp. 157-166
+
+Description: 
+Total flavonoids (mg/100 mL) for 12 brands of made-from-concentrate orange juice (3 reps per brand)
+and 14 brands of not made from concentrate orange juice (3 reps per brand)
+Brands:
+
+Made from Concentrate:
+1=Albertson's   2=Dole   3=Donald Duck, 4=Good Day, 5=Greater Value, 6=GV w/ calcium
+7=Minute Maid Country Style   8=MM Home Squeezed + Calcium    9=MM Premium Original
+10=MM PO + Calcium   11=MM Premium Extra Vitamins C and E + Zinc   12=Schepps
+
+Not Made from Concentrate:
+13=Albertson's Country Style   14=Albertsons OJ + Calcium    15=AvoClassic    16=Florida Natural
+17=HEB  Calcium   18=HEB Groves Choice   19=HEB Home Squeezed Style  20=HEB Original
+21=Horizon  22=Kroger Homestyle   23=Sams Choice    24=Sams Choice with Calcium
+25=Tropicana Pure Premium Calcium   26=Tropicana Pure Premium Low Acid
+
+
+Variable Names:
+ojBrand
+totFlavonoid

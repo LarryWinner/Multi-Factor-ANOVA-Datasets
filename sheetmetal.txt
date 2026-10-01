@@ -1,0 +1,19 @@
+Dataset: sheetmetal.dat
+
+Source: K.D. Majeske and P.C. Hammett (2003). "Identifying Sources of
+Variation in Sheet Metal Stamping," The International Journal of
+Flexible Manufacturing Systems, Vol. 15, pp. 5-18.
+
+Description: Deviations from nominal design specification of 36 body
+side panels in automobiles. Six batches of side panes were selected
+at random, within of each, 2 groups of side panels were sampled,
+within each, 3 side panels were selected.
+Measurements are in 10ths of mm, above or below nominal position.
+
+Variables/Columns
+Batch   8
+Group w/in Batch   16
+Group (overall)  23-24
+Rep w/in batch   32   /*  Not used in analysis as a factor  */
+Deviation from nominal position (1/10 mm)   36-40  /* 6.2 ==> 0.62mm  */
+

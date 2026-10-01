@@ -1,0 +1,17 @@
+Dataset: stethoscope1.csv
+
+Source: D. Dalalah and A. Diabat (2015). "Repeatability and Reproducibility in Med Labs: a
+Procedure to Measurement System Analysis," IET Science, Measurement & Technology, Vol. 9, Issue 7,
+pp. 826-835.
+
+Description:
+Measurement Systems experiment with 15 subjects, 3 operators, and 3 replicates.
+Responses: Systolic and Diastolic blood pressure using sphygmomanometer and stethoscope
+
+Variable Names: 
+subject
+operator
+repNum
+sbp
+dbp
+

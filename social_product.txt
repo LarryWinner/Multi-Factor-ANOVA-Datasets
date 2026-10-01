@@ -1,0 +1,20 @@
+Dataset: social_product.csv
+
+Source: L. Wang and J.H. Lee (2021). "The impact of K‑beauty social media
+influencers, sponsorship, and product exposure
+on consumer acceptance of new products", Fashion and Textiles, https://doi.org/10.1186/s40691-020-00239-0,
+pp. 8-15.
+
+Description: Experiment with 3 factors and response: New Product Acceptance Intention
+Factors (each at 2 levels):
+Endorser: 1=Celebrity, 2=General Public
+Sponsorship Display: 1=Display, 2=No Display
+Product: 1=Exposure (Shown), 2=No Exposure (Not Shown)
+Data generated to match cell means and Error sum of squares. 100 subjects per treatment.
+
+Variable Names
+product
+display
+endorser
+condition   (combination of factor levels)
+Y (On a 5 point Likert Scale).

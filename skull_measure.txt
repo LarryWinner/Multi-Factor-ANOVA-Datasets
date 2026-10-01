@@ -1,0 +1,14 @@
+Dataset: skull_measure.csv
+
+Source: T. Hanihara, Y. Dodo, O. Kondo, T. Nara, N. Doi, N. Sensui (1999).
+"Intra- and Inter-Observer Errors in Facial Flatness Measurements,"
+Anthropological Science, Vol. 107, #1, pp. 25-39.
+
+Description: Measurements made on 10 skulls by 6 observers at two
+times (times are replicates, not a factor).
+
+Variable Names:
+observer
+skull
+time
+chord   (frontal chord measurement)

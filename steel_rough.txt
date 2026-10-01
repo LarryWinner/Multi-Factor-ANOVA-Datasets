@@ -1,0 +1,24 @@
+Dataset:   steel_rough.csv
+
+Source: R.S. Peruchi, P.P. Balestrassi, A.P. de Paiva, J.R. Ferreira,
+M. d. S. Carmellozi (2013). "A New Multivariate Gage R&R Method for 
+Correlated Characteristics," International Journal of Production Economics,"
+Vol. 144, pp. 301-315
+
+Description: Results of a 2-Way Random Effects Model (aka Gage Repeatability
+and Reproducibility). The study had 12 parts, 3 operators, and 4 replicate
+measurements. There are the following variance components:
+Model y = mu + alpha_i + beta_j + (ab)_ij + e_ijk
+V(P) = V(alpha) 
+V(Repeatbility) = V(e)
+V(Reproducibility) = V(beta) + V(ab)
+V(MS) = V(Repeatability) + V(Reproducibility) 
+V(Total) = V(P) + V(MS)
+%R&R = 100*sqrt(V(MS)/V(T))
+Signal-to-Noise Ratio: SNR = sqrt(2V(P)/V(MS))
+
+Variables/Names
+Part  (part)
+Replicate (replicate)
+Operator  (operator)
+Arithmetic Average Roughness  (roughave)
