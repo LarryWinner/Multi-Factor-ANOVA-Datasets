@@ -1,0 +1,19 @@
+Dataset:  mastersy.dat
+
+Source:  www.masters.org
+
+Description: Scores in the Masters golf tournament (unit=player /year) for
+all golfers completing all 4 rounds in the tournament (excludes 
+rounds among withdrawals, disqualifications, and those missing
+the cut). 1934-2004. No tourney held in 1943-1945.
+
+Variables/Columns
+finish position   7-8
+golfer 17-49
+round1 score  53-54
+round2 score  61-62
+round3 score  69-70
+round4 score  77-78
+total score   84-86
+score wrt par   92-94
+year 99-102

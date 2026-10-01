@@ -1,0 +1,22 @@
+Dataset: laundry1.dat
+
+Source: L. Higgins, S.C. Anand, D.A. Holmes, M.E. Hall, and K. Underly (2003).
+"Effects of Various Home Laundering on the Dimensional Stability, Wrinkling,
+and Other Properties of Plain Woven Cotton Fabrics: Part II: Effect of Rinse
+Cycle Softener and Drying Method and of Tumble Sheet Softener and Tumble
+Drying Time," Textile Research Journal, Vol. 73, pp. 407-420.
+
+Description: Length and Width Shrinkage and Skewness Measurements for a 5
+factor experiment varying structure, presence of wrinkle resistant finish,
+cycle number, rinse cycle softener, and drying method.
+
+Variables/columns
+Structure    8  /* 1=Poplin, 2=Sheeting  */
+Wrinkle resistant finish  16  /* 0=No, 1=Yes */
+Cycle Number   24
+Rinse Cycle Softener 32   /* 0=No, 1=Yes  */
+Drying Method  40  /* 1=Tumble Dry, 0=Line Dry */
+Specimen Number  47-48 /* Presumably  */
+Length Shrinkage Percent 54-56
+Width Shrinkage Percent 62-64
+Skewness Percent   70-72

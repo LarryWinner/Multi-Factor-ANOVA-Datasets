@@ -1,0 +1,18 @@
+Dataset:  lpga2003.dat
+
+Source:  espn.com
+
+Description: Round-by-Round scores for all women golfers who made cut
+in the 31 LPGA tournaments in 2003.
+
+Variables/Columns
+Golfer 1-24
+Tournament Number       28-29
+Number of Rounds    33
+Round 1 score  37-38
+Round 2 score  42-43
+Round 3 score*  47-48
+Round 4 score*  52-53
+
+
+* ==> If tournement had rounds 3 and/or 4

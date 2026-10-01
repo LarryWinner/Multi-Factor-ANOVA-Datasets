@@ -1,0 +1,13 @@
+Dataset: jb42.csv
+
+Source: K.V. Smith (1969). "Stock Price and Economic Indexes For
+Generating Efficient Portfolios," The Journal of Business,
+Vol. 42, #3, pp. 332-336.
+
+Description: Economic Indexes for 8 sources over an 18 year period.
+
+Variables/Columns
+source  1-8
+year 10-16
+index  20-24
+

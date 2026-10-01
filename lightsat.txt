@@ -1,0 +1,35 @@
+Dataset:  lightsat.dat
+
+Source: H. Helson (1942). "Multiple-Variable Analysis of Factors Affecting
+Lightness and Saturation," The American Journal of Psychology, Vol.55,
+#1,pp46-57
+
+Description: Saturation and Lightness  scores (mean of 18 samples viewed 
+by 5 Ss) for 3 backgrounds,
+4 Spectral Hues, at 4 Illumination Levels.
+
+Backgrounds:
+1=White
+2=Gray
+3=Black
+
+Hues
+1=Red 
+2=Yellow 
+3=Green 
+4=Blue
+
+Intensities (Foot-Candles)
+1=135
+2=72
+3=4.5
+4=1.4
+
+Variables/Columns
+Intensity     8
+Background    16
+Hue           24
+Saturation Score  29-32
+Lighting score    45-48
+
+

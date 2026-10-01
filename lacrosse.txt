@@ -1,0 +1,15 @@
+Dataset:  lacrosse.dat
+
+Source: S.V. Caswell, R.G. Deivert (2002). "Lacrosse Helmet Designs and
+the Effects of Impact Forces", Journal of Athletic Training, 37(2):164-171.
+
+Description: Simulated data matching
+Summary statistics of comparison of 4 models of lacrosse
+helmets wrt front and rear impact. Measurements are Gadd Severity index 
+scores. Higher values imply more severe impact.
+
+Variables/Columns
+
+Model 8  /* 1=SHC, 2=SHCAF, 3=SHCUL, 4=BUL   */ 
+Side  16  /*  1=Front, 2=Back  */ 
+Gadd severity score  23-30 

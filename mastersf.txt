@@ -1,0 +1,15 @@
+Dataset:  mastersf.dat
+
+Source:  www.masters.org
+
+Description: Scores in the Masters golf tournament (unit=round) for
+all golfers completing all 4 rounds in the tournament (excludes 
+rounds among withdrawals, disqualifications, and those missing
+the cut). 1934-2004. No tourney held in 1943-1945.
+
+Variables/Columns
+golfer 1-33
+golfer id  36-38
+year       42-45
+round      49
+score      53-54

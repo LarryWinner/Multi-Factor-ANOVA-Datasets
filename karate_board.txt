@@ -1,0 +1,17 @@
+Dataset:  karate_board.dat
+
+Source: P.K. Smith, T. Niiler, and P.W. McCullough (2010). "Evaluating
+Makiwara Punching Board Performance," Journal of Asian Martial Arts,
+Vol 19, #2, pp. 34-45.
+
+Description: Results of experiments measuring deflection (mm) of
+makiwara boards of two types (stacked and tapered) and of four
+wood types (Cherry, Ash, Fir, and Oak). Unbalanced due to broken
+boards.
+
+Variables/Columns
+Treatment     8
+Wood Type    16     /* 1=Cherry, 2=Ash, 3=Fir, 4=Oak  */
+Board Type   24     /* 1=Stacked, 2=Tapered  */
+Board (trt) id  26-32
+Deflection (mm) 34-40 

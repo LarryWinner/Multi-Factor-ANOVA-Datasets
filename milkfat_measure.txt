@@ -1,0 +1,11 @@
+Dataset:  milkfat_measure.csv
+
+Source: J.M. Bland and D.G. Altman (1999). "Measuring Agreement in Method
+Comparison Studies," Statistical Methods in Medical Research, Vol. 8,
+pp. 135-160.
+
+Description: Human milk fat content measurements on 45 subjects, with 2 methods.
+Methods:
+Glycerol released by enzymic hydolysis of triglycerides (triglycerides)
+Standard Gerber method (gerber)
+Subject ID is labelled: subj_id

@@ -1,0 +1,16 @@
+Dataset: lathe_gage.csv
+
+Source: C. Saikaew (2018)> "An Implementation of Measurement System Analysis
+for Assessment of Machine and Part Variations in Turning Opereation,"
+Measurement, Vol. 118, pp. 246-252.
+
+Description: Results of measurement experiment measuring 10 
+randomly selected parts
+with 3 randomly selected CNC lathe machines. 3 Trials per part/machine.
+Trial is not a factor in the model.
+
+Variable names:
+machine
+trial
+partNum
+diameter (Y)

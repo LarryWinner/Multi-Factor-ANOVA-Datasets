@@ -1,0 +1,15 @@
+Dataset: ischemia1.dat
+
+Source: P. Schlattman and U. Dirnagl (2010). "Statistics in Experimental 
+Cerebrovascular Research: Comparison of More then Two Groups with a 
+Continuous Outcome Variable," Journal of Cerebral Blood Flow & Metabolism,
+Vol. 30, pp. 1558-1563
+
+Description: 2-Factor ANOVA relating Middle cerebral artery occlusion
+(MCAO) (Actual vs Sham Procedure) and Vardenafil (Actual vs Vehicle Control)
+on functionality in mice (time to complete the pole test)
+
+Variables/Columns
+MCAO procedure   8  /* 1=Sham, 2=MCAO   */
+Vardenafil Trt   16   /* 1=Vehicle, 2=Vardenafil  */
+Pole test time    18-24

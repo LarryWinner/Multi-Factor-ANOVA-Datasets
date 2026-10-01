@@ -1,0 +1,20 @@
+Dataset: meadowfoamflakes.csv
+
+Source: K.D. Carlson, B.S. Phillips, T.A. Isbell, T.C. Nelsen (1998). "Extaction of Oil from Meadowfoam Flakes," 
+Journal of the American Oil Chemists' Society," Vol. 75, pp. 1429-1436.
+
+Description: Experiment with 3 factors relating 3 factors to oil extraction from meadowfoam flakes.
+Factor A: Roll opening (inches/1000): 5, 13, 20
+Factor B: Seed Moisture (%): 9, 12, 15
+Factor C: Seed temperature (F): 65, 190, 210
+Responses: Flake thickness (in/1000)    Oil extracted (% dry basis)
+
+Variable Names:
+rollOpen
+seedMoist
+seedTemp
+rep    (replicate)
+flkThck
+oilXtrct
+
+

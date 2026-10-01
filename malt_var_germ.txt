@@ -1,0 +1,17 @@
+Dataset:  malt_var_ger.dat
+
+Source: A. Bekele, G. Bultosa, and K. Belete (2012). "The Effect of
+Germination Time on Malt Quality of Six Sorghum (Sorghum Bicolor) Varieties
+Grown at Melkassa, Ethiopia," Journal of Brewing, Vol. 118, Issue 1, pp. 76-81.
+
+Description: 2-Factor ANOVA with response = Malting Loss (%).
+Factor A = Variety (Gambella 1107, Macia, Meko, Red Swazi, Teshale, 76T1#23)
+Factor B = Germination Time (48, 96, 144)
+Run in 3 Replicates (Blocks). Blocks not significant
+Data simulated to obtain Mean, SD for each treatment.
+
+Variables/Columns
+Variety    8
+Germination Time   16
+Malting weight loss  20-24
+

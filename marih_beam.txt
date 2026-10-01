@@ -1,0 +1,23 @@
+Dataset: marih_beam.dat
+
+Source: B.B. Robinson and J.R. Matchett (1940). "Maihuana Investigations III:
+The Effect of Region of Growth of Hemp on Response to the Acid and
+Alkaline Beam Tests," Journal of The American Pharmaceutical Association,
+Vol.29,Issue 10, pp.448-453
+
+Description:Results of alkaine and Acid Beam Tests on Marijuana plants
+of 4 varieties (1=Manchurian "A",2=Manchurian "B",3=African "C", 
+4=Kentucky "D") in 4 states (1=Virginia,2=Wisconsin,3=Nebraska,4=Mississippi)
+at 3 time points. Plants were grown at 4 blocks within each state.
+Response = Total numerical response of 5 separate plant tests for
+each plot (block) of a variety for a location (state) for a given 
+time period.
+
+Variables/Columns
+Variety   8
+Time Period    16
+State      24
+Block      31-32
+Alkaline Beam Test Response   39-40
+Acid Beam Test Response       47-48
+

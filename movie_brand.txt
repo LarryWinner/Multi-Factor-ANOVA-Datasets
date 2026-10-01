@@ -1,0 +1,18 @@
+Dataset: movie_brand.csv
+
+Source: D-J. Park and B.K. Berger (2010). "Brand Placement in Movies: 
+The Effect of Film Genre on Viewer Recognition," Journal of Promotion 
+Management, Vol. 16, pp.428-444.
+
+Description: Results of experiment to relate ability to recall
+product placement by movie genre (action, comedy, drama) and gender.
+Response = # of correct recalls (0-6)
+
+Variables Names/Levels
+gender       /* 1=F, 2=M  */
+genre        /* 1=Action, 2=Comedy, 3=Drama  */
+gg.trt       /* 1=F/A, 2=F/C, 3=F/D, 4=M/A, 5=M/C, 6=M/D  */
+X1_gender    /* 1 if Female, -1 if Male
+X1_genre     /* 1 if Action, 0 if Comedy, -1 if Drama
+X2_genre     /* 0 if Action, 1 if Comedy, -1 if Drama
+recall       /* Number of brands recalled  */

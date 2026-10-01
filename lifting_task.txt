@@ -1,0 +1,17 @@
+Dataset:  lifting_task.dat
+
+Source: S. Singh and S. Kumar (2012). "Factorial Analysis of Lifting Task
+to Determine the Effect of Different Parameters and Interactions," Journal
+of Manufacturing Technology Managenet, Vol. 23, #7, pp. 947-953.
+
+Description: Experiment conducted to determine relationships among
+factors (object weight =10,15,20; twisting angle = 0,30,45; lifiting
+frequency=2,3,4) on lifting index (at origin and destination). High lifting 
+index is associated with higher back pain.
+
+Variables/Columns
+object weight in kg    7-8
+twising angle in degrees   15-16
+lifting frequency per minute   24
+Lifting Index at Origin    28-32
+Lifting Index at destination  36-40
