@@ -1,0 +1,15 @@
+Dataset  beerhead_halflife.dat
+
+Source: J.R. Hudson (1968). "Institute of Brewing: Analysis Committee
+Measurement of Head-Retention in Bottled Beer," Journal of the Institute of
+Brewing, Vol. 74, Issue 3, pp. 275-285.
+
+Description: Beer head half lifes for 5 beer brands, 5 laboratories,
+2 types of carborundum (distributed by maker, purchased in market),
+with 4 replicates per combination.
+
+Variables/Columns
+Laboratory     8
+Carborundum    16    /* 1=Distributed, 2=Purchased  */
+Beer           24
+Foam half-life (seconds)   28-32

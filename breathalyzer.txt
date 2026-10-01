@@ -1,0 +1,16 @@
+Dataset:  breathalyzer.csv
+
+Source: R.G. Gullberg (2008). "Employing Components-of-Variance to Evaluate Rorensic
+Breath Test Instruments," Science and Justice, Vol. 48, pp. 2-7
+
+Description: Experiment with 6 Breath analyzers (fixed effect) and 3 subjects (random
+effect), with 10 replicates per subject. Data simulated to approximate results in
+article.
+Machines: 1=Intox 8000, 2=Datamaster, 3=Alcosensor FST PBT, 4=Alcotest 6510 PBT,
+5=Alcotest 7110 IR, 6=Datamaster CDM
+
+Variables/Columns 
+machine    
+mubject    
+repNum     
+bloodAlc    

@@ -1,0 +1,17 @@
+Dataset:  biometer_foot.dat
+
+Source: D. Freeman, A. Jaeger, R. Johnson, S. Geletta, K. Cooper, P. Toney (2007).
+"Reliability Study of the Phillips Biometer for the Measurement of Subtalar 
+Joint Range of Motion," The Foot, Vol. 17, pp. 102-110.
+
+Description: Reliability study involving 12 subjects and 2 testers using Phillips
+Biometer to measure inversion and eversion of subtalar joint. Each tester
+measured each subject twice for inversion and eversion on each of 2 days.
+
+Variables/Columns
+Subject      7-8
+Inversion/eversion   16   /* 1=I, 2=E */
+Tester       24
+Day          32
+Trial number  40
+angle         47-48 

@@ -1,0 +1,17 @@
+Dataset:  banana_pretreat.dat
+
+Source: T.A. Anyasi, A.I.O. Jideani, G.R.A. Mchau (2015). "Effect of
+Organic Acid Pretreatment on Some Physical, Functional, and Antioxidant
+Properties of Flour Obtained from Three Unnripe Banana Cultivars,"
+Food Chemistry, Vol. 172, pp. 515-522.
+
+Description: 3-Way ANOVA relating Oil Holding capacity of Bananas
+to Cultivar (1=Luvhele, 2=Mabonde, 3=M-red), Pre-treatment acid (1=ascorbic,
+2=Citric, 3=Lactic), and Amount of acid (1=10g/L, 2=15, 3=20)
+Data simulated to match means, SDs
+
+Variables/Columns
+Cultivar      8
+Acid Type    16
+Acid Dose    24
+Oil holding capacity (g/g dry weight)  26-32

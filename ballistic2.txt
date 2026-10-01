@@ -1,0 +1,19 @@
+Dataset:  ballistic2.dat
+
+Source: M. Karahan (2008). "Comparison of Ballistic Performance
+and Energy Absorption Capabilities of Woven and Unidirectional Aramid
+Fabrics," Textile Research Journal, Vol. 78, pp. 718-730.
+
+Description: Results of Ballistic tests on 2 fabric materials, under 2
+conditions and 7 levels of ply. Each measurement is based on 6 replicates
+
+Variables/Columns:
+Ply number    7-8  /*  20 to 32 by 2  */
+Material     16  /* 1=Twaron 2=K-Flex  */
+Condition     24  /* 1=Dry  2=Wet   */
+Bullet Velocity Mean   27-32  /*  meters/second  */
+Bullet Velocity SD     37-40
+Trauma Depth Mean    44-48  /*  millimeters  */
+Trauma Depth SD     53-56
+Trauma Diameter Mean  60-64   /* millimeters  */
+Trauma Diameter SD   69-72

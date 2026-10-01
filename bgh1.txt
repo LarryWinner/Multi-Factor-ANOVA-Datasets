@@ -1,0 +1,20 @@
+Dataset:  bgh1.csv
+
+Source: J.C. Juskevich and C.G. Guyer (1990). "Bovine Growth Hormone: Human
+Food Safety Evaluation," Science, Vol.249,#4971,pp875-884.
+
+Description: Weight gains in rats over 85 day period in 6 treatment
+conditions of recombinant bovine growth hormone (rbGH):
+1=Control (0 mg/kg per day)
+2=Subcutaneous Injection (1.0 mg/kg per day)
+3=Oral Glavage (0.1 mg/kg per day)
+4=Oral Glavage (0.5 mg/kg per day)
+5=Oral Glavage (5 mg/kg per day)
+6=Oral Glavage (50 mg/kg per day)
+Data Simulated to match their means, SDs.
+
+Variable Names
+gender    /* 1=Male, 2=Female  */
+rbGH_trt   /*  Levels See above  */
+gen.rgBH   /* Combination of gender and rgBH  */
+wtGain     (Weight Gain)
