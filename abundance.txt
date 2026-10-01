@@ -1,0 +1,17 @@
+Dataset: abundance.dat
+
+Source: D.K. Kimura (1988). "Analyzing Relative Abundace Indices with
+Log-Linear Models," North American Journal of Fisheries Management,
+Vol. 8, pp. 175-180
+
+Description: 2-Way ANOVA relating Catch-per-unit-effort (tons/1000 hooks)
+for 6 areas in the Gulf of Alaska (Shumagin, Chirikof, Kodiak, and Yakutat)
+over 6 years (1978-1983). One "replicate" per "treatment". Author used
+log transformed abundance: Y'=ln(Y)
+
+Variables/Columns
+Year     8   /* 1=1978, ..., 6=1983  */
+Location Area    4   /* 1=S, 2=C, 3=K, 4=Y  */
+Catch-per-unit area   18-24
+ln(catch)       26-32
+

@@ -1,0 +1,15 @@
+Dataset:  alzheimers_eyes.csv
+
+Source: R.A. Armstrong (2013). "Statistical Guidelines for the Analysis
+of Data Obtained from One or Both Eyes," Opthalmic & Physiological Optics,
+Vol. 33, pp. 7-14.
+
+Description: Results of an observational study of axon densities in
+subjects' eyes. Whole plot factor is Condition (Normal/Alzheimers) and
+sub-plot factor is eye (Right/Left).
+
+Variables/Labels:
+Subject ID   (subject)
+Condition Group   (alz_grp)  1=Normal, 2=Alzheimers
+Eye      (eye)    1=Right, 2=Left
+Mean Axon Density per sample field   (axondens, in 2000 mu m^2)

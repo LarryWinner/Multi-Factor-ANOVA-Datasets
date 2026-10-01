@@ -1,0 +1,18 @@
+Source: animal_trap.csv
+
+Source: S.R. Cook and G. Proulx (1989). "Mechanical Evaluation and 
+Performance Improvement of the Rotating Jaw Conibear 120 Trap," Journal of
+Testing and Evaluation, Vol. 17, No. 3, pp. 190-195
+
+Description: Experiment comparing 8 models of animal traps, 3 traps per
+model, with 10 replicates per trap. 
+Response: Trap momentum at HDISP (when both jaws displaced halfway)
+Data generated to match statistics reported in paper.
+Trap Models: 1=C120, 2=C126, 3=C120 Mark III, 4=C120 Mark II,
+   5=C120 Mark V, 6=C120 Mark IV, 7=C120 Mark VII, 8=C120 Mark VI 
+
+Variable Names:
+trapGrp    (Combination of model and trap w/in model)
+model
+trapModel
+momentum   (kg m/s) 

@@ -1,0 +1,18 @@
+Dataset: aircraft_vibration.csv
+
+Source: M. Zanatta, F.G. Amaral, C.P. Giacomello (2021). "Exposure of Agricultural Pilots to Occupational
+Whole-Body Vibration: The Effects of Runway Maintenance and the Stages of Flight," 
+International Journal of Industial Ergonomics, Vol. 81. https://doi.org/10.1016/j.ergon.2020.103075
+
+Description:
+Study of whole-body vibration on pilots with 3 factors:
+Aircraft: 1=EMB-201A, 2=EMB-202, 3=A188B, 4=AT402B
+Maintenance: 1 = International Roughness Index (IRI) > 8 m/km, 2 = IRI < 8 m/km  
+Stage of Flight: 1=Loading, 2=Take-off, 3=Crop-Dusting, 4=Landing
+Response: Vibration Total Value 
+
+Variable Names:
+aircraft
+maintenance
+fltStage     (Flight Stage)
+vibration

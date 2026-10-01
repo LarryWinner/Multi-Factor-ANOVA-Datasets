@@ -1,0 +1,19 @@
+Dataset:  arrowhead_clothing.csv
+
+Source: N. MacPhee, A. Savage, N. Noton, E. Beattie, L. Milne, J. Fraser (2018).
+"A Comparison of Penetration and Damage Caused by Different Types of 
+Arrowheads on Loose and Tight Fitting Clothing," Science & Justice,
+Vol. 58, pp. 109-120.
+
+Description: Experiment comparing penetration of 4 types of arrowheads 
+through 3 fabric types and 2 clothing fits.
+Arrowhead Types: 1=Bullet, 2=Judo, 3=Broadhead (Blunt excluded due to low Y's)
+Clothing Fits: 1=Tight, 2=Loose
+Fabric Types: 1=T-shirt (95% Cotton), 2=Jeans (65% Cttn), 3=Jeans (95% Cttn)
+Authors fit 2-factor ANOVAs seperately by arrowhead type.
+
+Variable names:
+arrowhead
+clothFit
+clothType
+pntrt (cm)

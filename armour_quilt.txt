@@ -1,0 +1,20 @@
+Dataset:  armour_quilt.dat
+
+Source: D.J. Carr, C. Lankester, A.Peare, N. Fibri, N. Gridley (2012).
+"Does Quilting Improve the Fragment Protective Performance of Body Armour?,"
+Textile Research Journal, Vol. 82, #9, pp. 883-888.
+
+Description:
+Energy absorbed by body armour in a 3-Way Factorial ANOVA.
+Impact (slow, fast, edge)
+Specimen layers (1,2,3,5)
+Qulting: (None, square, diamond)
+Planned 12 replicates for eact treatment, 5 cells missing 1 value dur
+to instrument error. Data simulated to match mean, sd, sample size by treatment.
+
+
+Variables/Columns
+Impact   8   /* 1=slow, 2=fast, 3=edge   */
+Specimen layers    16
+Quilting   24    /* 1=None, 2=square, 3=diamond  */
+Energy absorbed (joulles)  26-32
