@@ -1,0 +1,14 @@
+Dataset:  drill_meas.dat
+
+Source: A. Al-Refaie and N. Bata (2010). "Evalualting Measurement and Process
+Capabilities by GR&R with Four Quality Measures," Measurement, Vol. 42,
+pp. 842-851.
+
+Description: 2-way random effects model where 3 operators measure 10 parts
+3 times.
+
+Variables/Colomns
+Part Number    7-8
+Operator       16
+Replicate      24
+Measurement   26-32

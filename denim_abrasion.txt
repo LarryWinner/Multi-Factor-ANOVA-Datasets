@@ -1,0 +1,14 @@
+Dataset: denim_abrasion.csv
+
+Source: A. Card, M.A. Moore, M. Ankeny (2006). "Garment Washed Jeans:
+Impact of Launderings on Physsical Properties," International Journal
+of Clothing Science and Technology, Vol. 18, 1/2, pp. 43-52.
+
+Description: Effects of Laundering Cycles and denim treatment
+on edge abrasion of denim jeans. Data simulated to match means/SDs
+
+Variable Names:
+cycleDenim             # 1-9 (combinations of levels of cycles and denimTrt)
+cycles                 #  1= Control (0), 2=5 Launderings, 3=25 
+denimTrt               #  1=Pre-washed, 2=Stone-Washed, 3=Enzyme Washed 
+abrasion               # Lower scores mean higher damage  

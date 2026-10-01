@@ -1,0 +1,18 @@
+Dataset:  drumstick.csv
+
+Source: M.I. Aksu, H. Imik, M. Karoglu (2007)> "Influence of Dietary Sorghum
+(Sorghum vulgare) and Corn Supplemented with Methionine on Cut-Up Pieces
+Weights of Broiler Carcass and Quality Properties of Breast and Drumsticks
+Meat," Food Science and Technology International, Vol. 13, #5, pp. 361-367.
+
+Description: Weight of Drumsticks for Broiler Chickens in CRD with 4 diets:
+1=Basal Sorghum (BS) 2=Basals Sorghum+Methionine (BSM)
+3=Basal Corn (BC)    4=Basal Corn+Methionine (BCM)
+Data simulated to perseve treatment means and SDs
+
+Variables Names
+diet    (1=BS, 2=BSM, 3=BC,4= BCM)
+base    (1=Sorghum, 2=Corn)
+methionine     (1=Absent, 2=Present)
+drumStkWt (grams)   
+

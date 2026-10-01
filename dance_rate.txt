@@ -1,0 +1,15 @@
+Dataset:  dance_rate.dat
+
+Source: M. Angioi, G.S. Metsios, E. Twitchett, Y. Koutedakis, M. Wyon (2009).
+"Association Between Selected Physical Fitness Parameters and Aesthetic
+Competence in Contemporary Dancers," Journal of Dance Medicine & Science,
+Vol. 13, #4, pp. 115-123.
+
+Description: Overall Rating scores for 6 dancers by 2 judges, with 3
+trials per dancer/judge.
+
+Variables/Columns
+Trial    8
+Dancer   16
+Judge    24
+Score   31-32

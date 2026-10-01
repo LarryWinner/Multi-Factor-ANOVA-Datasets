@@ -1,0 +1,16 @@
+Dataset:  ereader1.csv
+
+Source: P.-C. Chang, S.-Y. Chou, K.-K. Shieh (2013). "Reading Performance
+and Visual Fatigue When Using Electronic Displays in Long-Duration
+Reading Tasks Under Various Lighting Conditions," Displays, Vol. 34,
+pp. 208-214.
+
+Description: Reading Times for 3 devices and 4 lighting conditions (200Lx,
+500Lx, 1000Lx, 1500Lx). Completely Randomized design with 5 subjects per
+treatment. Data simulated to obtain same ANOVA and treatment means.
+
+
+Variables/Columns
+device     
+illum
+readTime  (seconds)

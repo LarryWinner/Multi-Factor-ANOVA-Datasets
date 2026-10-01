@@ -1,0 +1,16 @@
+Dataset: diaper_landfill.csv
+
+Source: K.L. Light, D.G. Chirmuley, R.K. Ham (1995).
+"A Laboratory Study of the Compaction Characteristics of Disposable
+Diapers in a Landfill," Resources, Conservation and Recycling,
+Vol. 13, pp. 89-96.
+
+Description: Results of experiment involving 8 diaper mixtures, at
+4 pressures (14.7, 34.4, 49.1, and 78.6 psi). Authors fit 2-Way ANOVA 
+with 1 observation per treatment.
+Response = Density of compacted refuse excluding the weight of diapers (lbs/yd^3)
+
+Variable Names:
+diaperMix
+pressure
+density

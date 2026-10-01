@@ -1,0 +1,18 @@
+Dataset: dryer_efficiency.dat
+
+Source: W.M. To, T.W. Yu, T.M. Lai, S.P. Li (2007). "Characterization of
+Commercial Clothes Dryers Based on Energy-Efficiency Analysis,"
+International Journal of Clothing Science and Technology,
+Vol. 19, #5, pp. 270-290.
+
+Desription: 3 Replicates each of 3 clothing categories (1=Towels,
+2=Jeans, 3=Thermal Clothing) for 4 dryer types (1=Electric Dryer, 
+2=Bi-directional Electric dryer, 3=Town Gas-Fired Dryer, 4=LPG-Fired dryer)
+
+Responses = energy effectiveness (kWh/kg) and standardized cycle time (min)
+
+Variables/Columns
+Clothing Category     8
+Dryer Type          16
+Energy Effectiveness   18-24
+Standardized Cycle Time  28-32

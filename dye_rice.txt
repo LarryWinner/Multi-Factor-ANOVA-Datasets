@@ -1,0 +1,21 @@
+Dataset:  dye_rice.dat
+
+Source: Y. Safa and H.N. Bhatti (2011). "Bisorption of Direct Red-31 and
+Direct Orange-26 Dyes by Rice Husk: Application of Factorial Design Analysis,"
+Chemical Engineering Research and Design, Vol. 89, pp. 2566-2574.
+
+Description:
+5^3 Factorial with responses: Amount of dye absorbed (mg/g) of
+Direct Red-31 and Direct Orange-26 dyes (average of 2 replicates)
+for each dye:
+Factors/Levels:
+Dye Concentration in mg/L (25 to 125 by 25)
+Biosorbent Dose in g/L (0.06 to 0.10 by 0.01)
+pH    (2 to 6 by 1 for Red, 3 to 7 by 1 for Orange)
+
+Variables/Columns
+Coded Dye Concentration   8   /* 1-5 */
+Coded Dose              16   /*  1-5  */
+Coded pH               24   /* 1-5 */
+Amount of Red Dye Sorbed in mg/g   28-32
+   "    " Orange "    "    "   "   36-40

@@ -1,0 +1,24 @@
+Dataset:  dyeprop.dat
+
+Source: J. Lindberg (1953). "Relationship Between Various Surface Properties
+of Wool Fibers: Part III: Sorption of Dyes and Acids in Wool Fibers," Textile
+Research Journal, Vol. 23, pp. 573-584
+
+Description: Fraction of Dye applied to Wool fibers in bath at equilibrium
+by treatment and observer. 2 replicates per combinaation of fabric type
+and observer.
+
+Treatment:
+1=Ether extracted
+2=Ether and Alcohol-extracted
+3=alcoholic potash (15 seconds)
+4=alcoholic potash (4 min)
+5=alcoholic potash (15 min)
+
+
+Variables/Columns
+Treatment   8
+Observer    16
+replicate   24
+proportion of dye in bath    28-32
+2*arcsin(sqrt(p))    35-40
